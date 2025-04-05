@@ -10,7 +10,7 @@
 
 .header-menu {
   list-style: none;
-  display: flex;
+  display: none;
   gap: 2rem;
   color: #fff;
   margin: auto;
