@@ -28,7 +28,7 @@
     z-index: 99;
   }
   .header-menu { 
-    flex-direction: column;
+    /*flex-direction: column;*/
     background-color: var(--appColor);
     padding: 2rem;
   }
